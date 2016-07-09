@@ -1,1 +1,1 @@
-# github-account
+各位同学把各自的github地址写上，然后push一下，等到大家都写上以后再pull一下，follow下别人并且请给别人的项目star一下
